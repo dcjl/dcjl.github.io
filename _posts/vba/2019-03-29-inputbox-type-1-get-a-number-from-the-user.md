@@ -12,7 +12,7 @@ sidebar:
   nav: sidebar-sample
 ---
 
-InputBox Example 1: (Type 1) - Inputbox to get a number from the user
+InputBox Example 1: (Type 1) - Inputbox to get a number from the user.
 
 ```vb
 '==================================================================================================

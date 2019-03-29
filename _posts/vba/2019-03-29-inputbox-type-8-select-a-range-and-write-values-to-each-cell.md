@@ -13,6 +13,7 @@ sidebar:
 
 ---
 
+InputBox Type 8 - select a range and write values to each cell
 
 ```vb
 '==================================================================================================

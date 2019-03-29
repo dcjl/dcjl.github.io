@@ -1,3 +1,22 @@
+---
+Title: "Import csv to excel with paramaters"
+layout: single
+classes: wide
+categories:
+  - vba
+tags:
+  - copy-data
+date: 2019-03-29 18:00:00
+sidebar:
+  title: "Popular Links"
+  nav: sidebar-sample
+
+---
+
+This uses the StartImportCSV module to call the ImportCSVFile function, with set parameters to import a csv file.
+You can muck around with this and use other techinques such as looping through multiple files and append to the bottom.
+
+'''vb
 '==================================================================================================
 ' ## Import CSV subroutine example providing parameters
 '    parameters: file path, destination workbook name, destination sheet name, starting row (B=2),
@@ -19,7 +38,7 @@ Function ImportCSVFile(ByVal filePath As String, _
                        ByVal ImportToRow As Long, _
                        ByVal StartColumn As Long, _
                        ByVal strDelimiter As String)
-                       
+
     '// vars
     Dim line As String
     Dim arrayOfElements
@@ -31,7 +50,7 @@ Function ImportCSVFile(ByVal filePath As String, _
             Line Input #1, line
             arrayOfElements = Split(line, strDelimiter) 'Split the line into the array.
             fileCol = StartColumn
-            
+
             '// Loop thorugh every element in the array and print to Excelfile
             For Each element In arrayOfElements
                 Workbooks(wbName).Sheets(DestSheet).Cells(ImportToRow, fileCol).Value = element
@@ -40,3 +59,4 @@ Function ImportCSVFile(ByVal filePath As String, _
         Loop
     Close #1 ' Close file.
 End Function
+```

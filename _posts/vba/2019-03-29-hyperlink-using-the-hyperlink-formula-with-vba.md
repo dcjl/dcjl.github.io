@@ -13,11 +13,11 @@ sidebar:
 
 ---
 
-Hyperlink a file or folder using the HYPERLINK formula  in the active cell using VBA. This method pulls up a file picking dialog to choose a file or folder (depending on macro) and then creates a hyperlink formula in the active cell. This method is far superior to a standard left-click hyperlink file method as links made this way can break if the workbook is saved to another location, look up 'Excel hyperlinks break when workbook saved to another folder' or 'Excel hyperlink base'.   
+Hyperlink a file or folder using the HYPERLINK formula  in the active cell using VBA. This method pulls up a file picking dialog to choose a file or folder (depending on macro) and then creates a hyperlink formula in the active cell. This method is far superior to a standard left-click hyperlink file method as links made this way can break if the workbook is saved to another location, look up 'Excel hyperlinks break when workbook saved to another folder' or 'Excel hyperlink base'.<br/> 
 
-**Hyperlink formula Syntax:** HYPERLINK(link_location, [friendly_name])
-**Link_location:** (required) the path and file name to the document to be opened.
-**Friendly_name:** (optional) the jump text or numeric value that is displayed in the cell. Friendly_name is displayed in blue and is underlined. If friendly_name is omitted, the cell displays the link_location as the jump text.
+**Hyperlink formula Syntax:** HYPERLINK(link_location, [friendly_name])<br/>
+**Link_location:** (required) the path and file name to the document to be opened.<br/>
+**Friendly_name:** (optional) the jump text or numeric value that is displayed in the cell. Friendly_name is displayed in blue and is underlined. If friendly_name is omitted, the cell displays the link_location as the jump text.<br/>
 
 ```vb
 '==================================================================================================

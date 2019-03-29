@@ -16,7 +16,7 @@ sidebar:
 This uses the StartImportCSV module to call the ImportCSVFile function, with set parameters to import a csv file.
 You can muck around with this and use other techinques such as looping through multiple files and append to the bottom.
 
-'''vb
+```vb
 '==================================================================================================
 ' ## Import CSV subroutine example providing parameters
 '    parameters: file path, destination workbook name, destination sheet name, starting row (B=2),

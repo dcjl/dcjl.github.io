@@ -23,9 +23,9 @@ The TRIM function then takes over to remove extra spaces and returns the final t
 Note that CLEAN is not able to remove all non-printing characters, notably a non-breaking space, which can be appear in Excel as CHAR(160). By adding the SUBSTITUTE function to the formula, you can remove specific characters. For example, to remove a non-breaking space, you can use the following formula										
 
 ### Formula										
-<pre>
+```
 =TRIM(CLEAN(SUBSTITUTE(<b><i>text</i></b>, CHAR(160), " ")))
-</pre>  
+```
   
 ___
 

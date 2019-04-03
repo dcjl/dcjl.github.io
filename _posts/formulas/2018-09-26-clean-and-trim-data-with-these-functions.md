@@ -24,8 +24,12 @@ Note that CLEAN is not able to remove all non-printing characters, notably a non
 
 ### Formula										
 ```
-=TRIM(CLEAN(SUBSTITUTE(<b><i>text</i></b>, CHAR(160), " ")))
+=TRIM(CLEAN(SUBSTITUTE(text, CHAR(160), " ")))
 ```
+  
+<pre>
+=TRIM(CLEAN(SUBSTITUTE(<b><i>text</b></i>, CHAR(160), " ")))
+</pre>
   
 ___
 

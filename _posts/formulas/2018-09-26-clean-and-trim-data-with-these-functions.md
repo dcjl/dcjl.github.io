@@ -28,8 +28,8 @@ Note that CLEAN is not able to remove all non-printing characters, notably a non
 ```
   
 <pre>
-=TRIM(CLEAN(SUBSTITUTE(<b><i>text</b></i>, CHAR(160), " ")))
-</pre>
+=TRIM(CLEAN(SUBSTITUTE(<b><i>text</i></b>, CHAR(160), " ")))
+</pre>  
   
 ___
 

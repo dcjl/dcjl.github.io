@@ -35,8 +35,8 @@ TitanTools is an excel add-in that provides efficiency in your day to day tasks.
 - Works on 32-bit or 64-bit
 
 ## The TitanTools Project
-This add-in project begain in 2016 as an off and on again hobby which now has evolved, been enhanced and tested rigorously.
-Add-ins are a great addition to the Excel function suite that cut down time to perform your everyday tasks
+This add-in project began in 2016 as an on and off again hobby which now has evolved, been enhanced and tested rigorously. The idea is to have lots of useful tools at your finger tips
+Add-ins are a great addition to the Excel function suite that cut down time to perform your everyday tasks.
 
 >I always wanted something that was available online, free and easy to install at work without having to call IT as at work I don't have who have Admin installation priveledges. 
 Through extensive research, learning, trial and error I have finally created an xlam Excel Add-in that anyone can download and install for Excel Windows easily and safely.

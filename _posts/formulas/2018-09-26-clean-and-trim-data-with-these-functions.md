@@ -27,10 +27,6 @@ Note that CLEAN is not able to remove all non-printing characters, notably a non
 =TRIM(CLEAN(SUBSTITUTE(text, CHAR(160), " ")))
 ```
   
-<pre>
-=TRIM(CLEAN(SUBSTITUTE(<b><i>text</i></b>, CHAR(160), " ")))
-</pre>  
-  
 ___
 
 ## What each formula does:

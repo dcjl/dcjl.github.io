@@ -23,6 +23,8 @@ sidebar-sample:
         url: /formulas/percentage-variance-with-positive-and-negative-values/
   - title: "VBA"
     children:
+      - title: Hyperlink Formula With Vba
+        url: /vba/hyperlink-using-the-hyperlink-formula-with-vba/
       - title: "Centre Userform - Multi Screen"
         url: /vba/centre-userform-for-dual-or-multiple-displays/
       - title: "Copy visible cells to New Workbook"

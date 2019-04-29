@@ -24,20 +24,20 @@ By using Conditional Formatting rather than directly styling a range, you can pr
 To apply the colour to every second row or column with the colour in the first cell to be formatted, enter the following formula in the formula bar in the Conditional Formatting dialog.
 
 ```vb
-‘## Rows
+'## Rows
 =MOD(ROW(),1*2)+1<=1
 
-‘## Columns
+'## Columns
 =MOD(COLUMN(),1*2)+1>1
 ```
 
 To apply the colour to every second row or column with the colour in the second cell to be formatted, enter the following formula in the formula bar in the Conditional Formatting dialog.
 
 ```vb
-‘## Rows
+'## Rows
 =MOD(ROW(),1*2)+1>1
 
-‘## Columns
+'## Columns
 =MOD(COLUMN(),1*2)+1<=1
 ```
 
@@ -45,10 +45,10 @@ To apply the colour to every second row or column with the colour in the second 
 To apply the colour on the first group and every other group, enter the following formula in the formula bar in the Conditional Formatting dialog.
 
 ```vb
-‘## Rows
+'## Rows
 =MOD(ROW()-Rw,N*2)+1<=N
 
-‘## Columns
+'## Columns
 =MOD(COLUMN()-Col,N*2)+1<=N
 ```
 

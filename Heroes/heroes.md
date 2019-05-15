@@ -2,7 +2,7 @@
 title: "Super Heroes"
 layout: splash
 permalink: /heroes/
-date: 2019-15-05T17:02:00-00:00
+date: 2019-15-05
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

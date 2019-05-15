@@ -4,6 +4,8 @@ main:
      url: /heroes/
    - title: "Villains"
      url: /villains/    
+   - title: "Portfolio"
+     url: /portfolio/
 
 # sidebar links
 sidebar-sample:

@@ -1,33 +1,22 @@
 # main links
 main:
-   - title: "Categories"
-     url: /categories/
-   - title: "Tags"
-     url: /tags/
-   - title: "Portfolio"
-     url: /portfolio/
+   - title: "Heroes"
+     url: /heroes/
+   - title: "Villains"
+     url: /villains/    
 
 # sidebar links
 sidebar-sample:
-  - title: "Formulas"
+  - title: "Heroes"
     children:
-      - title: "Multiple Criteria Lookup"
-        url: /formulas/multiple-criteria-lookup-with-index-and-match/
-      - title: "Count Unique Values"
-        url: /formulas/count-unique-values-in-a-range/
-      - title: "Index And Match"
-        url: /formulas/index-and-match/
-      - title: "Clean And Trim Your Data"
-        url: /formulas/clean-and-trim-data-with-these-functions/
-      - title: "Percentage Variance"
-        url: /formulas/percentage-variance-with-positive-and-negative-values/
-  - title: "VBA"
+      - title: "Batman"
+        url: /heroes/batman/
+      - title: "Superman"
+        url: /heroes/superman/
+      - title: "Wonder Woman"
+        url: /heroes/wonder-woman/
+
+  - title: "Villains"
     children:
-      - title: Hyperlink Formula With Vba
-        url: /vba/hyperlink-using-the-hyperlink-formula-with-vba/
-      - title: "Centre Userform - Multi Screen"
-        url: /vba/centre-userform-for-dual-or-multiple-displays/
-      - title: "Copy visible cells to New Workbook"
-        url: /vba/copy-visible-range-to-a-new-workbook/
-      - title: "Backup the active sheet"
-        url: /vba/backup-and-copy-the-active-sheet/
+      - title: "The Joker"
+        url: /villains/joker/

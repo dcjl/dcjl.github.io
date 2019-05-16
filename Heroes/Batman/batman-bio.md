@@ -1,14 +1,14 @@
-
 --- 
 Title: "Batman" 
 layout: single 
 date: 2019-05-16
 permalink: /batman/ 
 header: overlay_color: "#000" 
-overlay_filter: "0.5" 
-overlay_image: /Heroes/justice-league.jpeg
+  overlay_filter: "0.5" 
+  overlay_image: /Heroes/justice-league.jpeg
 excerpt: "The Dark Knight...protector of Gotham"
 ---
+
 ## Batman
 
 All Batman family characters

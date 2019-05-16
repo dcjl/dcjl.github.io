@@ -11,5 +11,6 @@ excerpt: "The Dark Knight...protector of Gotham"
 
 ## Batman
 
-All Batman family characters
+All Batman family characters  
+
 {% include video id="_B_ZvS3DfJI" provider="youtube" %}

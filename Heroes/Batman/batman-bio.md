@@ -14,3 +14,8 @@ excerpt: "The Dark Knight...protector of Gotham"
 All Batman family characters  
 
 {% include video id="_B_ZvS3DfJI" provider="youtube" %}
+  
+Lego Batman 3 - the Weapons Lab
+
+{% include video id="rRxaHpdg8fc" provider="youtube" %}
+

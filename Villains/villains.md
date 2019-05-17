@@ -16,22 +16,9 @@ feature_row:
     title: "Joker"
     excerpt: "The Clown Prince of Crime"
     url: /villains/joker/
-    btn_label: "Batman"
+    btn_label: "Joker"
     btn_class: "btn--primary"  
-  - image_path: /Heroes/Superman/superman.png
-    alt: "superman-image"
-    title: "Superman"
-    excerpt: "Earth's mightiest hero, the last son of Krypton"
-    url: /heroes/superman/
-    btn_label: "Superman"
-    btn_class: "btn--primary"   
-  - image_path: /Heroes/Wonder Woman/wonder-woman.jpg
-    alt: "wonder-woman-image"
-    title: "Wonder Woman"
-    excerpt: "Princess of the Amazons, a warrior without peer"
-    url: /heroes/wonder-woman/
-    btn_label: "Wonder Woman"
-    btn_class: "btn--primary"   
+
 ---
 
 {% include feature_row id="intro" type="center" %}

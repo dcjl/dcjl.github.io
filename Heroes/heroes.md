@@ -15,21 +15,21 @@ feature_row:
     alt: "batman-image"
     title: "Batman"
     excerpt: "The Dark Knight, protector of Gotham City"
-    url: /Heroes/Batman/batman-bio/
+    url: /heroes/batman/
     btn_label: "Batman"
     btn_class: "btn--primary"  
   - image_path: /Heroes/Superman/superman.png
     alt: "superman-image"
     title: "Superman"
     excerpt: "Earth's mightiest hero, the last son of Krypton"
-    url: /Heroes/Superman/superman-bio/
+    url: /heroes/superman/
     btn_label: "Superman"
     btn_class: "btn--primary"   
   - image_path: /Heroes/Wonder Woman/wonder-woman.jpg
     alt: "wonder-woman-image"
     title: "Wonder Woman"
     excerpt: "Princess of the Amazons, a warrior without peer"
-    url: /Heroes/Wonder Woman/wonder-woman-bio/
+    url: /heroes/wonder-woman/
     btn_label: "Wonder Woman"
     btn_class: "btn--primary"   
 ---

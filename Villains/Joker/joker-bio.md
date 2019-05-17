@@ -6,21 +6,21 @@ permalink: /villains/joker/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /villains/villains.jpg
+  overlay_image: /Villains/villains.jpg
 excerpt: "The Clown Prince of Crime"
 gallery:
-  - url: /villains/joker/joker1.jpg
-    image_path: /villains/joker/joker1.jpg
-  - url: /villains/joker/joker2.jpg
-    image_path: /villains/joker/joker2.jpg    
-  - url: /villains/joker/joker3.jpg
-    image_path: /villains/joker/joker3.jpg
-  - url: /villains/joker/joker4.jpg
-    image_path: /villains/joker/joker4.jpg
-  - url: /villains/joker/joker5.jpg
-    image_path: /villains/joker/joker5.jpg
-  - url: /villains/joker/joker6.jpg
-    image_path: /villains/joker/joker6.jpg  
+  - url: /Villains/Joker/joker1.jpg
+    image_path: /Villains/Joker/joker1.jpg
+  - url: /Villains/Joker/joker2.jpg
+    image_path: /Villains/Joker/joker2.jpg    
+  - url: /Villains/Joker/joker3.jpg
+    image_path: /Villains/Joker/joker3.jpg
+  - url: /Villains/Joker/joker4.jpg
+    image_path: /Villains/Joker/joker4.jpg
+  - url: /Villains/Joker/joker5.jpg
+    image_path: /Villains/Joker/joker5.jpg
+  - url: /Villains/Joker/joker6.jpg
+    image_path: /Villains/Joker/joker6.jpg  
 
 ---
 # Joker  

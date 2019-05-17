@@ -6,31 +6,31 @@ permalink: /heroes/batman/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /heroes/justice-league.jpg
+  overlay_image: /Heroes/justice-league.jpg
 excerpt: "The Dark Knight...protector of Gotham"
 gallery:
-  - url: /heroes/batman/batman1.jpg
-    image_path: /heroes/batman/batman1.jpg
+  - url: /Heroes/Batman/batman1.jpg
+    image_path: /Heroes/Batman/batman1.jpg
     alt: "batman"
     title: "batman"
-  - url: /heroes/batman/batman2.jpg
-    image_path: /heroes/batman/batman2.jpg
+  - url: /Heroes/Batman/batman2.jpg
+    image_path: /Heroes/Batman/batman2.jpg
     alt: "batman"
     title: "batman"
-  - url: /heroes/batman/batman3.jpg
-    image_path: /heroes/batman/batman3.jpg
+  - url: /Heroes/Batman/batman3.jpg
+    image_path: /Heroes/Batman/batman3.jpg
     alt: "batman"
     title: "batman"
-  - url: /heroes/batman/batman4.jpg
-    image_path: /heroes/batman/batman4.jpg
+  - url: /Heroes/Batman/batman4.jpg
+    image_path: /Heroes/Batman/batman4.jpg
     alt: "batman"
     title: "batman"
-  - url: /heroes/batman/batman5.jpg
-    image_path: /heroes/batman/batman5.jpg
+  - url: /Heroes/Batman/batman5.jpg
+    image_path: /Heroes/Batman/batman5.jpg
     alt: "batman"
     title: "batman"
-  - url: /heroes/batman/batman6.jpeg
-    image_path: /heroes/batman/batman6.jpeg
+  - url: /Heroes/Batman/batman6.jpeg
+    image_path: /Heroes/Batman/batman6.jpeg
     alt: "batman"
     title: "batman"
 ---

@@ -1,12 +1,12 @@
---- 
-Title: "Batman" 
-layout: single 
+---
+Title: "Batman"
+layout: single
 date: 2019-05-16
-permalink: /heroes/batman/ 
-header: 
-  overlay_color: "#000" 
-  overlay_filter: "0.5" 
-  overlay_image: /Heroes/justice-league.jpeg
+permalink: /heroes/batman/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /Heroes/justice-league.jpg
 excerpt: "The Dark Knight...protector of Gotham"
 gallery:
   - url: /Heroes/Batman/batman1.jpg
@@ -57,8 +57,7 @@ The world's greatest detective
 ### All Batman family characters  
 
 {% include video id="_B_ZvS3DfJI" provider="youtube" %}
-  
+
 ### Lego Batman 3 - the Weapons Lab
 
 {% include video id="rRxaHpdg8fc" provider="youtube" %}
-

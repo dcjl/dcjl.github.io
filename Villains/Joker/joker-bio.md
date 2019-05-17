@@ -2,7 +2,7 @@
 Title: "The Joker"
 layout: single
 date: 2019-05-17
-permalink: /heroes/batman/
+permalink: /villains/joker/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

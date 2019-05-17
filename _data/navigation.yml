@@ -4,8 +4,6 @@ main:
      url: /heroes/
    - title: "Villains"
      url: /villains/    
-   - title: "Portfolio"
-     url: /portfolio/
 
 # sidebar links
 sidebar-sample:
@@ -17,8 +15,14 @@ sidebar-sample:
         url: /heroes/superman/
       - title: "Wonder Woman"
         url: /heroes/wonder-woman/
+      - title: "The Flash"
+        url: /heroes/the-flash/        
 
   - title: "Villains"
     children:
       - title: "The Joker"
         url: /villains/joker/
+      - title: "Reverse Flash"
+        url: /villains/reverse-flash/
+      - title: "Lex Luthor"
+        url: /villains/lex-luthor/        

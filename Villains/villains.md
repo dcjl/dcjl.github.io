@@ -18,7 +18,6 @@ feature_row:
     url: /villains/joker/
     btn_label: "Joker"
     btn_class: "btn--primary"  
-
 ---
 
 {% include feature_row id="intro" type="center" %}

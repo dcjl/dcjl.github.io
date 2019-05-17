@@ -9,7 +9,7 @@ header:
   overlay_image: /Villains/villains.jpg
 excerpt: "The most evil villains of all time"
 intro:
-  - excerpt: 'An ensemble of the world's deadliest villains'
+  - excerpt: "An ensemble of the world's deadliest villains."
 feature_row:
   - image_path: /Villains/Joker/joker.jpg
     alt: "joker-image"

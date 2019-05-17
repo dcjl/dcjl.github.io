@@ -31,7 +31,7 @@ feature_row:
     excerpt: "The Flash's greatest enemy"
     url: /villains/reverse-flash/
     btn_label: "Reverse Flash"
-    btn_class: "btn--primary"     
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}

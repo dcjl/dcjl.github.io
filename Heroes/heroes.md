@@ -6,7 +6,7 @@ date: 2018-10-16T17:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /Heroes/justice-league.jpeg
+  overlay_image: /Heroes/justice-league.jpg
 excerpt: "The world's mightiest heroes"
 intro: 
   - excerpt: 'The Justice League is an assemblage of superheroes who join together as a team. The seven original members were Superman, Batman, Wonder Woman, The Flash, Green Lantern, Aquaman, and Martian Manhunter.'

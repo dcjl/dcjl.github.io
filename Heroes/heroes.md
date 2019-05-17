@@ -6,26 +6,26 @@ date: 2018-10-16T17:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /heroes/justice-league.jpg
+  overlay_image: /Heroes/justice-league.jpg
 excerpt: "The world's mightiest heroes"
 intro:
   - excerpt: 'The Justice League is an assemblage of superheroes who join together as a team. The seven original members were Superman, Batman, Wonder Woman, The Flash, Green Lantern, Aquaman, and Martian Manhunter.'
 feature_row:
-  - image_path: /heroes/batman/batman.png
+  - image_path: /Heroes/batman/batman.png
     alt: "batman-image"
     title: "Batman"
     excerpt: "The Dark Knight, protector of Gotham City"
     url: /heroes/batman/
     btn_label: "Batman"
     btn_class: "btn--primary"  
-  - image_path: /heroes/superman/superman.png
+  - image_path: /Heroes/superman/superman.png
     alt: "superman-image"
     title: "Superman"
     excerpt: "Earth's mightiest hero, the last son of Krypton"
-    url: /heroes/superman/
+    url: /Heroes/superman/
     btn_label: "Superman"
     btn_class: "btn--primary"   
-  - image_path: /heroes/wonder-woman/wonder-woman.jpg
+  - image_path: /Heroes/wonder-woman/wonder-woman.jpg
     alt: "wonder-woman-image"
     title: "Wonder Woman"
     excerpt: "Princess of the Amazons, a warrior without peer"

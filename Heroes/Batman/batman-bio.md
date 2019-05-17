@@ -8,7 +8,31 @@ header:
   overlay_filter: "0.5" 
   overlay_image: /Heroes/justice-league.jpeg
 excerpt: "The Dark Knight...protector of Gotham"
-
+gallery:
+  - url: /Heroes/Batman/batman1.jpg
+    image_path: /Heroes/Batman/batman1.jpg
+    alt: "batman"
+    title: "batman"
+  - url: /Heroes/Batman/batman2.jpg
+    image_path: /Heroes/Batman/batman2.jpg
+    alt: "batman"
+    title: "batman"
+  - url: /Heroes/Batman/batman3.jpg
+    image_path: /Heroes/Batman/batman3.jpg
+    alt: "batman"
+    title: "batman"
+  - url: /Heroes/Batman/batman4.jpg
+    image_path: /Heroes/Batman/batman4.jpg
+    alt: "batman"
+    title: "batman"
+  - url: /Heroes/Batman/batman5.jpg
+    image_path: /Heroes/Batman/batman5.jpg
+    alt: "batman"
+    title: "batman"
+  - url: /Heroes/Batman/batman6.jpeg
+    image_path: /Heroes/Batman/batman6.jpeg
+    alt: "batman"
+    title: "batman"
 ---
 # Batman  
 The world's greatest detective
@@ -24,6 +48,9 @@ The world's greatest detective
 | Powers               | None                                                                                                                                                    |
 | Skills and Abilities | Genius-level intellect, Peak physical and mental conditioning, Master detective, Master martial artist and Master hand-to-hand combatant                |
 | Tools and Weapons    | Utilizes high-tech equipment, weapons, and armors                                                                                                       |
+
+
+{% include gallery caption="**Batman:** the world's greatest detective." %}
 
 ## Videos
 

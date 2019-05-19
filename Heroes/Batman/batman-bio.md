@@ -54,10 +54,14 @@ The world's greatest detective
 
 ## Videos
 
-### All Batman family characters  
-
 {% include video id="_B_ZvS3DfJI" provider="youtube" %}
 
-### Lego Batman 3 - the Weapons Lab
-
 {% include video id="rRxaHpdg8fc" provider="youtube" %}
+
+{% include video id="y0PNC0a1nzI" provider="youtube" %}
+
+{% include video id="xaoedRBchXA" provider="youtube" %}
+
+{% include video id="3QVZ6IOQYI" provider="youtube" %}
+
+{% include video id="Turfbs6Wjjw" provider="youtube" %}

@@ -8,6 +8,33 @@ header:
   overlay_filter: "0.5"
   overlay_image: /Heroes/justice-league.jpg
 excerpt: "Princess of the Amazons, a warrior without peer"
+gallery:
+  - url: /Heroes/Wonder-Woman/wonder-woman1.png
+    image_path: /Heroes/Wonder-Woman/wonder-woman1.png
+    alt: "wonder-woman"
+    title: "wonder-woman"
+  - url: /Heroes/Wonder-Woman/wonder-woman2.png
+    image_path: /Heroes/Wonder-Woman/wonder-woman2.png
+    alt: "wonder-woman"
+    title: "wonder-woman"
+  - url: /Heroes/Wonder-Woman/wonder-woman3.png
+    image_path: /Heroes/Wonder-Woman/wonder-woman3.png
+    alt: "wonder-woman"
+    title: "wonder-woman"
+  - url: /Heroes/Wonder-Woman/wonder-woman4.png
+    image_path: /Heroes/Wonder-Woman/wonder-woman4.png
+    alt: "wonder-woman"
+    title: "wonder-woman"
+  - url: /Heroes/Wonder-Woman/wonder-woman5.png
+    image_path: /Heroes/Wonder-Woman/wonder-woman5.png
+    alt: "wonder-woman"
+    title: "wonder-woman"
+  - url: /Heroes/Wonder-Woman/wonder-woman6.png
+    image_path: /Heroes/Wonder-Woman/wonder-woman6.png
+    alt: "wonder-woman"
+    title: "wonder-woman"
 ---
 
 # Wonder Woman
+
+{% include gallery %}

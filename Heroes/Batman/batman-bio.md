@@ -54,6 +54,8 @@ The world's greatest detective
 
 ## Videos
 
+{% include video id="u9JeG5Ii8" provider="youtube" %}
+
 {% include video id="_B_ZvS3DfJI" provider="youtube" %}
 
 {% include video id="rRxaHpdg8fc" provider="youtube" %}

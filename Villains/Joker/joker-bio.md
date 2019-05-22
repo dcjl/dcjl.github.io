@@ -30,10 +30,12 @@ The Clown Prince of Crime and Batman's arch-enemy
 
 ## Videos
 
-### All Batman family characters  
+{% include video id="RoabixemFPs" provider="youtube" %}
 
-{% include video id="_B_ZvS3DfJI" provider="youtube" %}
+{% include video id="207zHLIsEw4" provider="youtube" %}
 
-### Lego Batman 3 - the Weapons Lab
+{% include video id="HHXwi5Mz7ug" provider="youtube" %}
 
-{% include video id="rRxaHpdg8fc" provider="youtube" %}
+{% include video id="Z8D6RNzETbk" provider="youtube" %}
+
+{% include video id="HHXwi5Mz7ug" provider="youtube" %}

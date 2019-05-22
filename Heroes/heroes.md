@@ -37,8 +37,11 @@ feature_row:
     title: "The Flash"
     excerpt: "The fastest man alive!"
     url: /heroes/flash/
+    btn_label: "The Flash"
+    btn_class: "btn--primary"  
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+  

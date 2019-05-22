@@ -38,3 +38,11 @@ gallery:
 # Wonder Woman
 
 {% include gallery %}
+
+## Videos
+
+{% include video id="jaZ8ufwGSi4" provider="youtube" %}
+
+{% include video id="8HmQgpbc50E" provider="youtube" %}
+
+{% include video id="NEBt28II4_M" provider="youtube" %}

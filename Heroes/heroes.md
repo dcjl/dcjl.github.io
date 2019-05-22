@@ -31,7 +31,12 @@ feature_row:
     excerpt: "Princess of the Amazons, a warrior without peer"
     url: /heroes/wonder-woman/
     btn_label: "Wonder Woman"
-    btn_class: "btn--primary"   
+    btn_class: "btn--primary"  
+  - image_path: /Heroes/Flash/flash.png
+    alt: "flash-image"
+    title: "The Flash"
+    excerpt: "The fastest man alive!"
+    url: /heroes/flash/
 ---
 
 {% include feature_row id="intro" type="center" %}

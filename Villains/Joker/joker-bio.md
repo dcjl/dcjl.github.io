@@ -37,5 +37,3 @@ The Clown Prince of Crime and Batman's arch-enemy
 {% include video id="HHXwi5Mz7ug" provider="youtube" %}
 
 {% include video id="Z8D6RNzETbk" provider="youtube" %}
-
-{% include video id="HHXwi5Mz7ug" provider="youtube" %}

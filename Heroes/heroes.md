@@ -38,10 +38,17 @@ feature_row:
     excerpt: "The fastest man alive!"
     url: /heroes/flash/
     btn_label: "The Flash"
-    btn_class: "btn--primary"  
+    btn_class: "btn--primary"
+  - image_path: /Heroes/Green-Lantern/green-lantern.png
+    alt: "flash-image"
+    title: "Green Lantern"
+    excerpt: "The most legendary Lanterns to ever wield a power ring"
+    url: /heroes/green-lantern/
+    btn_label: "Green Lantern"
+    btn_class: "btn--primary"    
+
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-  

@@ -42,9 +42,16 @@ feature_row:
   - image_path: /Heroes/Green-Lantern/green-lantern.png
     alt: "flash-image"
     title: "Green Lantern"
-    excerpt: "The most legendary Lanterns to ever wield a power ring"
+    excerpt: "The most legendary Lantern to ever wield a power ring."
     url: /heroes/green-lantern/
     btn_label: "Green Lantern"
+    btn_class: "btn--primary"    
+  - image_path: /Heroes/Aquaman/aquaman.png
+    alt: "flash-image"
+    title: "Aquaman"
+    excerpt: "The King of Atlantis and of the Seven Seas."
+    url: /heroes/aquaman/
+    btn_label: "Aquaman"
     btn_class: "btn--primary"    
 
 ---
